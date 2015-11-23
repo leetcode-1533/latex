@@ -11,8 +11,7 @@
 
  * Out of box, no need to install extra package.
  
- 
- To take a look of the effect, please take a lock at [template.pdf](/template.pdf)
+ To take a look of the effect, please take a look at [template.pdf](/template.pdf)
 
 
 
